@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagophelip&label=Profile%20views&color=0e75b6&style=flat" alt="thiagophelip" /> </p>
 
-- 🔭 I’m currently working on **CWI Software**
 
-- 🌱 I’m currently learning **Python,JS,C#,Cyber Security**
+- 🌱 I’m currently learning **Python,JS,C#
 
 - 📫 How to reach me **thiagophelipcunha@gmail.com**
 
